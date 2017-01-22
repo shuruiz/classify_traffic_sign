@@ -1,0 +1,6 @@
+test1.jpg:70 km limit sign, from [https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*e0UlsRVfTM2xw_uVWTsPVg.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40waleedka%2Ftraffic-sign-recognition-with-tensorflow-629dffc391a6&docid=4-vctpZtaEXAdM&tbnid=eDJH3nbWFYpdsM%3A&vet=1&w=800&h=508&bih=545&biw=1242&q=traffic%20sign&ved=0ahUKEwjEieawltbRAhUD6GMKHeytAikQMwjHAShHMEc&iact=mrc&uact=8]
+pic2.jpg: Michigan_left_lighted_sign,from wikipedia[https://en.wikipedia.org/wiki/Traffic_sign]
+pic3.jpg:under construction sign,from [https://pixabay.com/zh/%E4%BA%A4%E9%80%9A%E6%A0%87%E5%BF%97-%E7%BD%91%E7%AB%99-%E8%B7%AF%E7%89%8C-warnschild-%E4%BA%A4%E9%80%9A-397457/]
+pic4.jpg:No passing sign,from [http://www.mansetkocaeli.com/kategori/guncel/haber/golcukte-trafik-isaretleri-duzenleniyor/84195]
+pic5.jpg:merge traffic sign,from [http://www.getdomainvids.com/keyword/merge%20traffic%20sign/]
+pic6.jpg:yield sign, from [http://www.ite.org/uiig/mutcd.asp]
